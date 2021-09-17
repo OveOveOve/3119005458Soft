@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="3119005458SoftW:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/3119005458SoftW_jar</output-path>
+    <root id="archive" name="3119005458SoftW.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="3119005458SoftW" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/hankcs/hanlp/portable-1.5.4/hanlp-portable-1.5.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/junit/junit/4.12/junit-4.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

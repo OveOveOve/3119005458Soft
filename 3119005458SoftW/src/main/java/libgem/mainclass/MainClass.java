@@ -5,7 +5,7 @@ import libgem.utils.Txt_TO_String;
 import libgem.utils.Utils_Hamming;
 
 public class MainClass {
-    public static void main(String[] args) throws ArrayIndexOutOfBoundsException{
+    public static void main(String[] args) {
 
         /*
             从命令行输入路径，并且读取相对应的文件，将读取到的文件内容转化成字符串
